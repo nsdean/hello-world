@@ -14,6 +14,9 @@ author:
   email:             nickydean83@gmail.com
 
 # Gems
+
+theme: lanyon
+
 plugins:
   - jekyll-paginate
 
