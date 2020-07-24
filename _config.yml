@@ -2,7 +2,7 @@
 title:               Run the numbers
 tagline:             'Adventures in popcorn and data'
 description:         'Learning about data analysis and coding through the medium of cinema.'
-url:                 'https://nsdean.github.io/'
+url:                 https://nsdean.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
