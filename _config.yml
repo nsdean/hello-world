@@ -15,7 +15,7 @@ author:
 
 # Gems
 
-theme: lanyon
+theme: jekyll-theme-lanyon
 
 plugins:
   - jekyll-paginate
