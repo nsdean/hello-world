@@ -1,0 +1,21 @@
+# Setup
+title:               Run the numbers
+tagline:             'Adventures in popcorn and data'
+description:         'Learning about data analysis and coding through the medium of cinema.'
+url:                 http://nsdean.github.io/
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Nicky Dean
+  url:               https://twitter.com/ns_dean
+  email:             nickydean83@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+google_analytics_id: #UA-XXXX-Y
