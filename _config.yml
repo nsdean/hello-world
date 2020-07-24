@@ -16,6 +16,7 @@ author:
 # Gems
 
 remote_theme: poole/lanyon
+theme: lanyon
 
 plugins:
   - jekyll-paginate
