@@ -2,6 +2,7 @@
 layout: post
 title: Understanding Scorsese
 ---
+Something wrong?
 
 Martin Scorsese is a great director. But lately his films seem to be getting longer and longer. *The Irishman* was amazingly long, to the point that watching it in the cinema became a badge of pride for many.
 
