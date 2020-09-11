@@ -58,7 +58,7 @@ His revenues are pretty healthy. He even produced one of the highest grossing (a
 {% include scorsese/revenue-v-runtime.html %}
 <p></p>
 
-People aren't necessarily put off by the blossoming length of Scorsese's films. When above two hours, there's a lot of high-earning pictures. His films about Christianity (*The Last Temptation of Christ* and *Silence*) are the outliers among the longest runtime.
+People aren't necessarily put off by the blossoming length of Scorsese's films. When above two hours, there's a lot of high-earning pictures. His films about Christianity (*The Last Temptation of Christ* and *Silence*) are the outliers among the longest runtimes.
 
 Critical reception might tell a different story.
 
