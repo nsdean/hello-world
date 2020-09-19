@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-I don't really know what this is about. Yet.
-
 I love cinema and I am teaching myself how to code in Python. So I'm combining
 these two things to try and get more out of both. Most of the posts here will
 likely be devoted to simple attempts at data vizualisation, rather than real
